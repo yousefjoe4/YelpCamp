@@ -17,4 +17,4 @@ Some of the technologies/libraries used in this project:
 5- PassportJs\
 6- HTML/CSS/JS\
 7- Bootstrap\
-8- EJS\
+8- EJS
