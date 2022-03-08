@@ -1,7 +1,3 @@
-Here is a deployed version of the app:
-http://yelp-camp-y.herokuapp.com/
-
-
 Description of the project:
 YelpCamp is a web app that allows users to put camps information under their names, 
 they add the name of the camp, it's location, price, description and pictures of it. 
